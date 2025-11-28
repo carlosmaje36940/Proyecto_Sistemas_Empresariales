@@ -1,0 +1,23 @@
+##############################################
+# RECURSOS VIDEO - PROYECTO SISTEMAS EMPRESARIALES
+##############################################
+
+=== PROCESOS DE NEGOCIO Y MEJORA - 1 ===
+URL: https://www.youtube.com/watch?v=w_FKH8HeVsE
+
+=== PROCESOS DE NEGOCIO Y MEJORA - 2 ===
+URL: https://www.youtube.com/watch?v=wxtioWWN4Ug
+
+=== PROCESOS DE NEGOCIO Y MEJORA - 3 ===
+URL: https://www.youtube.com/watch?v=uOSFVZXG6dI
+
+=== GESTIÓN DE CAPACIDAD ===
+URL: https://www.youtube.com/watch?v=7J9Sf46umaI
+
+=== GESTIÓN DE RIESGOS ===
+URL: https://www.youtube.com/watch?v=X_TML6Ogvr4
+
+=== RNF Y CALIDAD DEL SOFTWARE ===
+URL: https://www.youtube.com/watch?v=c8kLskG5NjI
+
+##############################################
